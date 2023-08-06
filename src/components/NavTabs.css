@@ -1,0 +1,22 @@
+.nav {
+    display: flex;
+    justify-content: right;
+}
+
+.navbar-name {
+    font-size: 50px;
+    margin: 20px;
+    color: white;
+    flex: 1;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.nav-item {
+    font-size: 30px;
+    margin: 30px;
+    border-radius: 25px;
+}
+
+.nav-link {
+    
+}
