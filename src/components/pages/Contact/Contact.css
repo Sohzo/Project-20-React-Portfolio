@@ -24,6 +24,17 @@
     text-align: center;
 }
 
+.linkcontainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.contlink {
+    font-size: 50px;
+    text-align: center;
+    margin: 10px;
+}
+
 .container {
     display: flex;
     flex-direction: column;
