@@ -17,7 +17,7 @@
 
   ## Deployed App 
 
-
+  https://sohzo.github.io/Project-20-React-Portfolio/
 
   ## Screenshot
 
