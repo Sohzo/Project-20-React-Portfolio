@@ -42,3 +42,9 @@
     margin-right: auto;
     margin-top: 50px;
 }
+
+.projs p {
+    font-size: 25px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

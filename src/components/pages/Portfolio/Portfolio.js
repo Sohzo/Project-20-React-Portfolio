@@ -16,28 +16,34 @@ export default function Portfolio() {
           <li className='coltitles'>
             Group work
           </li>
-          <a href="https://github.com/13Blackmagic/Mixpedia">
+          <a href="https://github.com/13Blackmagic/Mixpedia" className='projs'>
             <img src={mernimg} className='imgs'></img>
+            <p>Mixpedia Mern Project</p>
           </a>
-          <a href="https://github.com/ericklea/main-course-home-page-project">
+          <a href="https://github.com/ericklea/main-course-home-page-project" className='projs'>
             <img src={apiimg} className='imgs'></img>
+            <p>Homepage API Project</p>
           </a>
-          <a href="https://github.com/Sohzo/Ecommerce-Website-CodeCrusaders">
+          <a href="https://github.com/Sohzo/Ecommerce-Website-CodeCrusaders" className='projs'>
             <img src={ecomimg} className='imgs'></img>
+            <p>Ecommerce Handlebars Project</p>
           </a>
         </ul>
         <ul className='columns'>
           <li className='coltitles'>
             Solo Work
           </li>
-          <a href="https://github.com/Sohzo/Social-Network-API">
+          <a href="https://github.com/Sohzo/Social-Network-API" className='projs'>
             <img src={socialimg} className='imgs'></img>
+            <p>Social Network API</p>
           </a>
-          <a href="https://github.com/Sohzo/Project-19-Text-Editor">
+          <a href="https://github.com/Sohzo/Project-19-Text-Editor" className='projs'>
             <img src={jateimg} className='imgs'></img>
+            <p>Text Editor</p>
           </a>
-          <a href="https://github.com/Sohzo/Employee-Tracker">
+          <a href="https://github.com/Sohzo/Employee-Tracker" className='projs'>
             <img src={emptrack} className='imgs'></img>
+            <p>Employee Tracker</p>
           </a>
         </ul>
       </div>
