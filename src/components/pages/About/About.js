@@ -1,10 +1,12 @@
 import React from 'react';
 import "./About.css";
+import profilepic from "./images/Profilepic.jpg"
 
 export default function About() {
   return (
     <div className="About-page">
       <h1 className="About-title">About Me</h1>
+      <img src= {profilepic} className="profilepic"></img>
       <p className="About-text">
         Welcome to my page! My name is Jonathan. I've been studying web development at the University of Utah for 6 months now. 
         I began coding after hearing that some of my friends had decided to give it a try, after some time I grew to enjoy it.
