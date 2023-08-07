@@ -19,6 +19,7 @@ export default function Contact() {
         <li className="text">Email: jonpw2004@outlook.com</li>
         <li className="text">Phone#: 801-935-0042</li>
         <li className="text">Github: https://github.com/Sohzo</li>
+        <li className="text">LinkedIn: https://www.linkedin.com/in/jonathan-winter-b843a0266/</li>
       </ul>
     </div>
   );

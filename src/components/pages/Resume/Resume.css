@@ -1,0 +1,22 @@
+.profs {
+    text-align: center;
+    padding-bottom: 50px;
+    font-size: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: grid;
+    
+}
+
+.profslist {
+    font-size: 40px;
+    list-style-type: none;
+    text-align: center;
+}
+
+.resfooter {
+    margin-top: 50px;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    list-style-type: none;
+    text-align: center;
+}
